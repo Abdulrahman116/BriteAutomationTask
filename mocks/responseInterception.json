@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Abdulrahman",
+                "last": "Alaa"
+            },
+            "location": {
+                "street": {
+                    "number": 3740,
+                    "name": "Rolling Green Rd"
+                },
+                "city": "Miami",
+                "state": "Washington",
+                "country": "United States",
+                "postcode": 32850,
+                "coordinates": {
+                    "latitude": "-35.4857",
+                    "longitude": "54.7358"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "april.wood@example.com",
+            "login": {
+                "uuid": "1fe05b8e-486f-46be-9416-2fd0022a5c89",
+                "username": "greencat949",
+                "password": "arrows",
+                "salt": "HA8yU43q",
+                "md5": "b55938363f35a8b8b41bb19ad23e1dce",
+                "sha1": "ad693e7f402a910a3b724bdbb053847bd0bbebde",
+                "sha256": "361a4672b38f1a7e544c9f51110170217b8294b0a5634d2c46e942e3d6a7c734"
+            },
+            "dob": {
+                "date": "1992-11-23T16:37:53.027Z",
+                "age": 32
+            },
+            "registered": {
+                "date": "2003-04-29T06:32:29.314Z",
+                "age": 22
+            },
+            "phone": "(316) 485-5622",
+            "cell": "(810) 787-8327",
+            "id": {
+                "name": "SSN",
+                "value": "159-16-6223"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/1.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+            },
+            "nat": "US"
+        }
+    ],
+    "info": {
+        "seed": "51385092f2c6dec6",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
